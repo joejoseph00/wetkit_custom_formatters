@@ -1,0 +1,11 @@
+name = wetkit_custom_formatters
+description = custom formatters for things like currency localized to Canadian english and Canadien Français
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = wetkit_custom_formatters
+dependencies[] = ctools
+dependencies[] = custom_formatters
+features[ctools][] = custom_formatters:custom_formatters:2
+features[features_api][] = api:1
+features[formatters][] = money_canadian

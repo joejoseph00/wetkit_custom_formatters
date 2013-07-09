@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the wetkit_custom_formatters feature.
+ */
+
+include_once 'wetkit_custom_formatters.features.inc';
