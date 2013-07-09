@@ -11,7 +11,6 @@ How to use this:  Install it, then in your content types that you display curren
 
 Français:
 Utilisation: installer, puis dans vos types de contenu que vous voulez affichez monnaie,
-utilisez un champ décimal, ajoutez le custom formatter money_canadian à l'aide de l'interface 
-graphique Drupal 
+utilisez un champ décimal, ajoutez le custom formatter money_canadian 
 (voir documentation de custom formatters sur drupal.org pour savoir comment faire )
 
