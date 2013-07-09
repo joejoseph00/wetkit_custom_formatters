@@ -10,12 +10,12 @@ English:
 How to use this:  Install it, then in your content types that you display currency, use a decimal field, add the money_canadian custom formatter to it using the drupal gui 
 (refer to the custom formatters docs on drupal.org for how to do that)
 
-Example, 10.00 becomes $10.00 in english mode and 10,00 $ in french (canadien).
+Example, 10.00 becomes $10.00 in (canadian) english mode and 10,00 $ in french (canadien).
 
 Français:
 Utilisation: installer, puis dans vos types de contenu que vous voulez affichez monnaie,
 utilisez un champ décimal, ajoutez le custom formatter money_canadian 
 (voir documentation de custom formatters sur drupal.org pour savoir comment faire )
 
-Exemple, 10.00 devient 10,00 $ en mode (canadien) français et $10.00 en anglais
+Exemple, 10.00 devient 10,00 $ en mode (canadien) français et $10.00 en (canadian) anglais
 
